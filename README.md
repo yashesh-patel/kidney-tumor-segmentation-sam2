@@ -37,12 +37,19 @@ assets/ → Diagrams and prediction visuals
 %cd /kaggle/working/segment-anything-2
 !pip install -q -e .
 
-```bash
 !wget -O /kaggle/working/segment-anything-2/sam2_hiera_tiny.pt "https://dl.fbaipublicfiles.com/segment_anything_2/072824/sam2_hiera_tiny.pt"
 !wget -O /kaggle/working/segment-anything-2/sam2_hiera_small.pt "https://dl.fbaipublicfiles.com/segment_anything_2/072824/sam2_hiera_small.pt"
 !wget -O /kaggle/working/segment-anything-2/sam2_hiera_base_plus.pt "https://dl.fbaipublicfiles.com/segment_anything_2/072824/sam2_hiera_base_plus.pt"
 !wget -O /kaggle/working/segment-anything-2/sam2_hiera_large.pt "https://dl.fbaipublicfiles.com/segment_anything_2/072824/sam2_hiera_large.pt"
 
+## Large Files
+
+To run this project, please download the following files:
+
+- [sample_slices.zip]([https://drive.google.com/your-link](https://drive.google.com/drive/folders/1mW0mvRgtB9-CKgtzQWkUEK9qeo_l3F8l))
+- [resnet50_weights_tf_dim_ordering_tf_kernels_notop.h5]([https://drive.google.com/your-link](https://drive.google.com/drive/folders/1IhKMS538vDEkCv9wDgZJcWq6cw9fAEw6))
+
+These files are not included in the GitHub repo due to size limits.
 
 
 
