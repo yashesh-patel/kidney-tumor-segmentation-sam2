@@ -46,8 +46,8 @@ assets/ → Diagrams and prediction visuals
 
 To run this project, please download the following files:
 
-- [sample_slices.zip]([https://drive.google.com/your-link](https://drive.google.com/drive/folders/1mW0mvRgtB9-CKgtzQWkUEK9qeo_l3F8l))
-- [resnet50_weights_tf_dim_ordering_tf_kernels_notop.h5]([https://drive.google.com/your-link](https://drive.google.com/drive/folders/1IhKMS538vDEkCv9wDgZJcWq6cw9fAEw6))
+- [sample_slices.zip](https://drive.google.com/drive/folders/1mW0mvRgtB9-CKgtzQWkUEK9qeo_l3F8l)
+- [resnet50_weights_tf_dim_ordering_tf_kernels_notop.h5](https://drive.google.com/drive/folders/1IhKMS538vDEkCv9wDgZJcWq6cw9fAEw6)
 
 These files are not included in the GitHub repo due to size limits.
 
