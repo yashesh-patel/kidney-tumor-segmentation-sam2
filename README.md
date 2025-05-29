@@ -55,7 +55,7 @@ These files are not included in the GitHub repo due to size limits.
 ## 🖼️ Results and Visualizations
 
 ### Predicted Segmentation Output
-<img src="assets/output.jpg" width="500"/><br>  
+<img src="assets/output.png" width="500"/><br>  
 *Sample output showing kidney-tumor regions segmented using SAM‑2.*
 
 ### Block Diagram
