@@ -54,16 +54,16 @@ These files are not included in the GitHub repo due to size limits.
 
 ## 🖼️ Results and Visualizations
 
-### Segmentation Output
-![Predicted Segmentation Example](assets/output.jpg)  
+### Predicted Segmentation Output
+<img src="assets/output.jpg" width="500"/><br>  
 *Sample output showing kidney-tumor regions segmented using SAM‑2.*
 
-### Model Architecture
-![Block Diagram](assets/SAM2.jpg)  
+### Block Diagram
+<img src="assets/SAM2.jpg" width="500"/><br>
 *Schematic overview of the fine-tuning process for SAM‑2 using 2D axial slices.*
 
 ### Training & Validation Curves
-![Training Curve](assets/iou_sam2.jpg)  
+<img src="assets/iou_sam2.jpg" width="500"/><br>  
 *IoU curves over 6000 steps of training.*
 
 
