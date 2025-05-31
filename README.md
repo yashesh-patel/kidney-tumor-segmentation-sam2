@@ -64,7 +64,7 @@ These files are not included in the GitHub repo due to size limits.
 
 ### Training & Validation Curves
 <img src="assets/iou_sam2.jpg" width="500"/><br>  
-*IoU curves over 6000 steps of training.*
+*IoU curves over 3000 steps of training.*
 
 
 
