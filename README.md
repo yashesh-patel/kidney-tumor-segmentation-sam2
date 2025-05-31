@@ -2,14 +2,14 @@
 
 This project fine-tunes Meta’s Segment Anything Model v2 (SAM2) for semantic segmentation of kidney and kidney tumors using the [KiTS23 dataset](https://kits-challenge.org/). It compares performance against DeepLabv3+.
 
-## 🧠 Overview
+## Overview
 
 - Dataset: **KiTS23 (Kidney Tumor Segmentation Challenge 2023)**
 - Model: **Segment Anything Model v2 (SAM2)**
 - Approach: 3D volumes preprocessed into 2D slices for fine-tuning
 - Evaluation: Compared with DeepLabv3+ model
 
-## 📊 Evaluation Results
+## Evaluation Results
 
 | Metric              | SAM2 Model      | DeepLabv3+ Model |
 |---------------------|-----------------|------------------|
@@ -20,7 +20,7 @@ This project fine-tunes Meta’s Segment Anything Model v2 (SAM2) for semantic s
 
 > SAM2 achieved higher training IoU and lower loss, while DeepLabv3+ slightly outperformed SAM2 on validation IoU.
 
-## 📁 Folder Structure
+## Folder Structure
 
 notebooks/ → Pre-processing, training, fine-tuning and analysis notebook
 src/ → Modular Python code for training/inference
@@ -29,7 +29,7 @@ data/ → Sample slices
 assets/ → Diagrams and prediction visuals 
 
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Clone Repo & to Download all the checkpoints
 ```bash
@@ -52,7 +52,7 @@ To run this project, please download the following files:
 
 These files are not included in the GitHub repo due to size limits.
 
-## 🖼️ Results and Visualizations
+## Results and Visualizations
 
 ### Predicted Segmentation Output
 <img src="assets/output.png" width="500"/><br>  
